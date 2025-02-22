@@ -70,7 +70,6 @@ BEGIN
 END
 
 **MY Output**
-
 <img width="1512" alt="Screenshot 2025-02-22 at 12 13 01 PM" src="https://github.com/user-attachments/assets/b190151c-9268-4549-8182-66e42b3aa56f" />
 
 
